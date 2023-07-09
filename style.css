@@ -339,3 +339,28 @@ h3 {
   margin-bottom: 40px;
   padding: 0;
 }
+
+/*----- footer -----*/
+
+.footer {
+  width: 100%;
+  text-align: center;
+  padding: 30px 0;
+}
+
+.footer h4 {
+  margin-bottom: 25px;
+  margin-top: 20px;
+  font-weight: 600;
+}
+
+.icons .fa-brands {
+  color: blue;
+  margin: 0 13px;
+  cursor: pointer;
+  padding: 18px 0;
+}
+
+.icons .fa-solid {
+  color: #f44336;
+}
